@@ -1,18 +1,18 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Rohith+Nathani;AI+%7C+ML+Engineer;Building+Intelligent+Systems;Future+AI+Architect" />
-</h1>
+<h1 align="center">Hey there 👋, I'm Rohith Nathani</h1>
+
+<h3 align="center">🚀 Computer Science & AI Student | Builder | Curious Mind</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=JARVIS%20MODE%20ACTIVATED&fontSize=30&fontColor=00F7FF&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Explorer;Full+Stack+Developer;Building+Intelligent+Systems;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🤖 About Me
+## 🌟 About Me
 
 ```yaml
 Name: Rohith Nathani
 Role: AI & Software Developer
 Focus: Agentic AI, Intelligent Systems
 Education: Amrita Vishwa Vidyapeetham
-Mindset: Build → Learn → Innovate → Repeat
+Location: Andhra Pradesh, India
