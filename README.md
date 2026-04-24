@@ -2,9 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey%20There!%20I'm%20Rohith%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<h3 align="center">
-AI Systems Builder • Full-Stack Developer • Problem Solver
-</h3>
+<p align="center">
+  <a href="https://github.com/ROHITH-NATHANI">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%7C+ML+Explorer;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=50">
+  </a>
+</p>
+
 
 <p align="center">
 Building Real-World AI Systems ⚡ <br/>
