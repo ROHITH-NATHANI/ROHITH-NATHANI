@@ -90,44 +90,38 @@
 
 # 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-  <th>Category</th>
-  <th>Technologies</th>
-</tr>
+## 🛠️ Tech Stack
 
-<tr>
-  <td><b>Languages</b></td>
-  <td>
-    Python • Java • JavaScript • TypeScript • SQL
-  </td>
-</tr>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-<tr>
-  <td><b>Frameworks</b></td>
-  <td>
-    React.js • Next.js • Node.js • Express.js • Tailwind CSS
-  </td>
-</tr>
+### ⚙️ Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-<tr>
-  <td><b>Tools & Cloud</b></td>
-  <td>
-    AWS (S3, EC2) • Docker • Git • GitHub • Vercel • REST APIs
-  </td>
-</tr>
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-</table>
+### ☁️ Tools & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![REST API](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROHITH-NATHANI&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHITH-NATHANI&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 # 📈 Activity Graph
 
@@ -148,7 +142,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://protofilo-gray-eight.vercel.app/">
+  <a href="https://protofolio-fntn.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
   <a href="mailto:rohithnathani2@gmail.com">
