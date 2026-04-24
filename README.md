@@ -98,26 +98,26 @@
 
 <tr>
   <td><b>Languages</b></td>
-  <td>Python, JavaScript, TypeScript, HTML, CSS</td>
+  <td>
+    Python • Java • JavaScript • TypeScript • SQL
+  </td>
 </tr>
 
 <tr>
   <td><b>Frameworks</b></td>
-  <td>React, Node.js</td>
+  <td>
+    React.js • Next.js • Node.js • Express.js • Tailwind CSS
+  </td>
 </tr>
 
 <tr>
-  <td><b>Tools</b></td>
-  <td>Git, GitHub, VS Code, Vercel</td>
-</tr>
-
-<tr>
-  <td><b>Databases</b></td>
-  <td>MongoDB, Firebase</td>
+  <td><b>Tools & Cloud</b></td>
+  <td>
+    AWS (S3, EC2) • Docker • Git • GitHub • Vercel • REST APIs
+  </td>
 </tr>
 
 </table>
-
 ---
 
 # 📊 GitHub Analytics
