@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="https://protofilo-gray-eight.vercel.app/">
+  <a href="https://protofolio-fntn.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge"/>
   </a>
   <a href="https://linkedin.com/in/rohith-nathani-48736a327">
@@ -137,28 +137,10 @@
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://protofolio-fntn.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-  <a href="mailto:rohithnathani2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/rohith-nathani-48736a327">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
-
 # ⚡ Fun Fact
-
 
 I don't just write code
 I build intelligent systems that think 🚀
-
 
 ---
 
