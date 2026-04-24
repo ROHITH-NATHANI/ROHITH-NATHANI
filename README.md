@@ -1,14 +1,14 @@
-<h1 align="center">Hey there 👋, I'm Rohith Nathani</h1>
-
-<h3 align="center">🚀 Computer Science & AI Student | Builder | Curious Mind</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=I'm+Rohith+Nathani;AI+%7C+ML+Engineer;Building+Intelligent+Systems;Future+AI+Architect" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Explorer;Full+Stack+Developer;Building+Intelligent+Systems;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=AI%20SYSTEMS%20ENGINEER&fontSize=30&fontColor=00F7FF&animation=fadeIn" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 🤖 About Me
 
 ```yaml
 Name: Rohith Nathani
