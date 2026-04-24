@@ -10,11 +10,6 @@
 
 
 <p align="center">
-Building Real-World AI Systems ⚡ <br/>
-Multimodal AI | Intelligent Systems | Automation 🌍
-</p>
-
-<p align="center">
   <a href="https://protofilo-gray-eight.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge"/>
   </a>
@@ -25,3 +20,13 @@ Multimodal AI | Intelligent Systems | Automation 🌍
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+## 🌟 About Me
+
+- 🎓 CS & AI student at **Amrita Vishwa Vidyapeetham**
+- 🤖 Passionate about **AI, Machine Learning & Software Development**
+- 🧠 Love building intelligent systems that solve real-world problems
+- 🌱 Currently exploring **Agentic AI & Intelligent Systems**
+- ⚡ Always curious about new technologies & innovations
+
+---
