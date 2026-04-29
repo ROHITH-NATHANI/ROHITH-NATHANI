@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="https://protofolio-fntn.vercel.app/">
+  <a href="https://protofolio-iono.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge"/>
   </a>
   <a href="https://linkedin.com/in/rohith-nathani-48736a327">
